@@ -1,0 +1,2 @@
+# Windows sends PWG Raster; captppd's backend expects 1-bit CUPS Raster.
+image/pwg-raster application/vnd.cups-raster 50 pwgtocaptraster

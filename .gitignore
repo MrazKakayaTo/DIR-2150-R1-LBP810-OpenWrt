@@ -1,0 +1,10 @@
+# Generated/build-only files
+.DS_Store
+*.swp
+*.tmp
+*.log
+__pycache__/
+.idea/
+.vscode/
+
+# Intentionally tracked: packages/*.apk, archive *.tar.gz, docs/*.docx
